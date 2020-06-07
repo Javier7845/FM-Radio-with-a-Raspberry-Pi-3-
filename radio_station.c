@@ -2,7 +2,7 @@
 
 	MEMBERS
 
---->Javier
+--->CHIPANTASIG CHIPANTASHI JEFFERSON JAVIER
 --->PIJAL TOAPANTA WASHINGTON DANILO
 
  code modified from https://github.com/dpiponi/pifm by netbufalo.
