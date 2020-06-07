@@ -1,6 +1,6 @@
 The file with extension .c is the code that we use to program the Radio in the Raspberry Pi 3+
 Save the archives along with the songs in a USB Flash.
-**It is important to remark that the sound files admitted in this program are .wav files which use one channel (mono) with a sampling rate of 22050 Hz**
+*It is important to remark that the sound files admitted in this program are .wav files which use one channel (mono) with a sampling rate of 22050 Hz*
 
 Access to the Raspberry terminal
 Use PuTTY program to access the terminal by identify the ip address of Raspberry and later click on Open.
